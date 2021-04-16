@@ -1,0 +1,13 @@
+C:\Users\Ahmet\source\repos\WordGameForYazLab\bin\Debug\netcoreapp3.1\WordGameForYazLab.exe
+C:\Users\Ahmet\source\repos\WordGameForYazLab\bin\Debug\netcoreapp3.1\WordGameForYazLab.deps.json
+C:\Users\Ahmet\source\repos\WordGameForYazLab\bin\Debug\netcoreapp3.1\WordGameForYazLab.runtimeconfig.json
+C:\Users\Ahmet\source\repos\WordGameForYazLab\bin\Debug\netcoreapp3.1\WordGameForYazLab.runtimeconfig.dev.json
+C:\Users\Ahmet\source\repos\WordGameForYazLab\bin\Debug\netcoreapp3.1\WordGameForYazLab.dll
+C:\Users\Ahmet\source\repos\WordGameForYazLab\bin\Debug\netcoreapp3.1\WordGameForYazLab.pdb
+C:\Users\Ahmet\source\repos\WordGameForYazLab\obj\Debug\netcoreapp3.1\WordGameForYazLab.csprojAssemblyReference.cache
+C:\Users\Ahmet\source\repos\WordGameForYazLab\obj\Debug\netcoreapp3.1\WordGameForYazLab.AssemblyInfoInputs.cache
+C:\Users\Ahmet\source\repos\WordGameForYazLab\obj\Debug\netcoreapp3.1\WordGameForYazLab.AssemblyInfo.cs
+C:\Users\Ahmet\source\repos\WordGameForYazLab\obj\Debug\netcoreapp3.1\WordGameForYazLab.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet\source\repos\WordGameForYazLab\obj\Debug\netcoreapp3.1\WordGameForYazLab.dll
+C:\Users\Ahmet\source\repos\WordGameForYazLab\obj\Debug\netcoreapp3.1\WordGameForYazLab.pdb
+C:\Users\Ahmet\source\repos\WordGameForYazLab\obj\Debug\netcoreapp3.1\WordGameForYazLab.genruntimeconfig.cache
